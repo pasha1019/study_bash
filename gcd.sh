@@ -1,5 +1,5 @@
 #!/bin/bash
-while [ true ]
+while [ true ]				# Бесконечный цикл
 do
 read num1 num2
 if [ -z $num1 ]
